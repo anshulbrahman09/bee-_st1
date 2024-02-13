@@ -1,0 +1,32 @@
+[
+    {
+        "Title": "Apple",
+        "Category": "Food",
+        "Price": 1.25
+    },
+    {
+        "Title": "Banana",
+        "Category": "Food",
+        "Price": 0.75
+    },
+    {
+        "Title": "Milk",
+        "Category": "Beverage",
+        "Price": 2.50
+    },
+    {
+        "Title": "Notebook",
+        "Category": "Stationery",
+        "Price": 3.99
+    },
+    {
+        "Title": "Socks",
+        "Category": "Clothing",
+        "Price": 5.99
+    },
+    {
+        "Title": "Headphones",
+        "Category": "Electronics",
+        "Price": 29.99
+    }
+]
